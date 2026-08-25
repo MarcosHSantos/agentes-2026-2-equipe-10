@@ -8,13 +8,13 @@ Repositório da equipe para a disciplina **Tópicos Especiais em Inteligência A
 
 | Nome | Usuário no GitHub | Pasta de trabalho |
 |---|---|---|
-| | | `src/membros/Daniel/` |
-| | | `src/membros/Claude/` |
-| | | `src/membros/Gemini/` |
+| | | `src/membros/Marcos/` |
+| | | `src/membros/Renahn/` |
+| | | `src/membros/Thyago/` |
 
 ## Nosso problema
 
-*Agente Tutor*
+*O nosso problema consiste em utilizar um agente para fazer análise de um banco de dados do sistema Cognus da empresa BauerX. Este sistema é um teste de reação feito para identificar se o trabalhador esta apto ou nao a iniciar a jornada de trabalho. Ele se baseia no tempo de reacao em milissegundos para clicar em figuras geometricas posicionadas aleatoriamente no celular e também em um questionário sobre o sono e a alimentação.*
 
 ## Como rodar
 
